@@ -1,0 +1,6 @@
+openai
+llama-index
+tiktoken
+langchain
+html2text
+# youtube-transcript-api
